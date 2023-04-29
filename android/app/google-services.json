@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "103998626498",
+    "project_id": "signin-da140",
+    "storage_bucket": "signin-da140.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103998626498:android:cd34c5fb1a0ad081f1b95b",
+        "android_client_info": {
+          "package_name": "com.example.google_signgin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103998626498-mrkh72ndaqjl6qi3pu3qhkp1f4p7mqdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-ZfS9Fdq5HSTvCZSDgbJsEPzjD5xTPhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103998626498-mrkh72ndaqjl6qi3pu3qhkp1f4p7mqdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
